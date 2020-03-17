@@ -1,0 +1,1 @@
+ctrl+shift+J to open a js consonle in chrome
